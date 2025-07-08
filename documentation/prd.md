@@ -88,7 +88,7 @@ Następujące funkcjonalności są świadomie wyłączone z zakresu MVP:
 - Tytuł: Manualne tworzenie nowej fiszki
 - Opis: Jako użytkownik, chcę mieć możliwość ręcznego dodania nowej fiszki, wpisując własne pytanie i odpowiedź.
 - Kryteria akceptacji:
-  1. Istnieje dedykowany formularz do tworzenia fiszek z polami na pytanie (max 200 znaków) i odpowiedź.
+  1. Istnieje dedykowany formularz do tworzenia fiszek z polami na pytanie (od 200 do 5000 znaków) i odpowiedź.
   2. Po wypełnieniu formularza i kliknięciu "Zapisz", nowa fiszka jest dodawana do mojej kolekcji.
 
 - ID: US-008
